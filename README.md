@@ -21,4 +21,24 @@ there are 4 interaction you can give to your items:
 -   rotate x rotate the selected item of x degre
 -   rotate +/-x increase the selected item's rotation of x degre
 
-<img src="C:\Users\benja\AppData\Roaming\Typora\typora-user-images\image-20211105173120989.png" alt="image-20211105173120989" style="zoom:33%;" />
+to select an item you have to @ it, for exemple if you want to advance bot1 of 10 you will do :
+```
+>@bot1 move +10
+```
+The @ character also keeps the selected item in memory so you don't have to @ it every time
+```
+bot1> move -10
+```
+will move the bot back to its original position
+
+
+You can also select multiple items at once by using their generic name (without index), for example to rotate every bots to a 30° angle yo do :
+```
+>@bot rotate 30
+```
+
+Finally, you can select different items using the *%*, this will lead to a selection of every items within a condition on their index.
+```
+>@bot0%2 move 10
+```
+will select every bots with an index of 0[2] (bot0, bot2, bot4...) and move them. 
