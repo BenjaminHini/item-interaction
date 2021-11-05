@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projet_final" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projet_final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projet_final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="forme/Cercle.cpp" />
+		<Unit filename="forme/Cercle.h" />
+		<Unit filename="forme/Forme.cpp" />
+		<Unit filename="forme/Forme.h" />
+		<Unit filename="forme/Rectangle.cpp" />
+		<Unit filename="forme/Rectangle.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="objet/Bloc.cpp" />
+		<Unit filename="objet/Bloc.h" />
+		<Unit filename="objet/Mur.cpp" />
+		<Unit filename="objet/Mur.h" />
+		<Unit filename="objet/Objet.cpp" />
+		<Unit filename="objet/Objet.h" />
+		<Unit filename="outil_math/Coords.cpp" />
+		<Unit filename="outil_math/Coords.h" />
+		<Unit filename="outil_math/PointDancrage.cpp" />
+		<Unit filename="outil_math/PointDencrage.h" />
+		<Unit filename="outil_math/Vecteur.cpp" />
+		<Unit filename="outil_math/Vecteur.h" />
+		<Unit filename="phrase/Phrase.cpp" />
+		<Unit filename="phrase/Phrase.h" />
+		<Unit filename="sauvegarde/sauvegarde.cpp" />
+		<Unit filename="sauvegarde/sauvegarde.h" />
+		<Unit filename="svg/svgfile.cpp" />
+		<Unit filename="svg/svgfile.h" />
+		<Unit filename="util/util.cpp" />
+		<Unit filename="util/util.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

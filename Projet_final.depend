@@ -1,0 +1,668 @@
+# depslib dependency file v1.0
+1575141394 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\main.cpp
+	<iostream>
+	<vector>
+	"objet/Objet.h"
+	"svg/svgfile.h"
+	"phrase/Phrase.h"
+	"util/util.h"
+
+1575233318 c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\objet\objet.h
+	"../forme/Forme.h"
+	"../outil_math/Coords.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	<iostream>
+	<string>
+	<vector>
+
+1574968942 c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\outil_math\coords.h
+
+1574968942 c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\outil_math\pointdencrage.h
+	<string>
+	"Vecteur.h"
+	"Coords.h"
+	"../svg/svgfile.h"
+
+1575147517 c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\outil_math\vecteur.h
+	<iostream>
+	"Coords.h"
+
+1575230160 c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\svg\svgfile.h
+	"../outil_math/Coords.h"
+	<string>
+	<fstream>
+	<set>
+
+1575232784 c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\phrase\phrase.h
+	"../objet/Objet.h"
+
+1571066508 c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\util\util.h
+	<string>
+
+1575230635 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\objet\bloc.cpp
+	"Bloc.h"
+
+1575227960 c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\objet\bloc.h
+	"../forme/Forme.h"
+	"../forme/Rectangle.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	"Objet.h"
+	<cmath>
+
+1575227877 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\objet\mur.cpp
+	"Mur.h"
+
+1575229895 c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\objet\mur.h
+	"Objet.h"
+	"Bloc.h"
+	"../forme/Rectangle.h"
+
+1575233318 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\objet\objet.cpp
+	"Objet.h"
+	"Mur.h"
+	"../svg/svgfile.h"
+
+1575137759 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\outil_math\coords.cpp
+	"Coords.h"
+
+1575120824 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\outil_math\pointdancrage.cpp
+	"PointDencrage.h"
+
+1574968942 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\outil_math\vecteur.cpp
+	"Vecteur.h"
+
+1575233201 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\phrase\phrase.cpp
+	"Phrase.h"
+	"../sauvegarde/sauvegarde.h"
+	<fstream>
+
+1575058207 c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\sauvegarde\sauvegarde.h
+	<fstream>
+	"../objet/Objet.h"
+
+1575058667 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\sauvegarde\sauvegarde.cpp
+	"sauvegarde.h"
+	"../objet/Objet.h"
+	"../outil_math/Coords.h"
+
+1575230088 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\svg\svgfile.cpp
+	<iostream>
+	<sstream>
+	<cmath>
+
+1571066508 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\util\util.cpp
+	"util.h"
+	<random>
+	<ctime>
+	<iostream>
+	<streambuf>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<iostream>
+	<thread>
+	"util.h"
+	<windows.h>
+
+1575224013 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\forme\cercle.cpp
+	"Cercle.h"
+
+1575222776 c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\forme\cercle.h
+	"../outil_math/Coords.h"
+	"Forme.h"
+	<iostream>
+
+1575222776 c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\forme\forme.h
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<iostream>
+
+1575222776 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\forme\forme.cpp
+	"Forme.h"
+
+1575222776 source:c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\forme\rectangle.cpp
+	"Rectangle.h"
+
+1575222776 c:\users\benja\onedrive\documents\ing 2\informatique\projet_final\forme\rectangle.h
+	"Forme.h"
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<cmath>
+
+1575231406 source:c:\users\danyr\onedrive\bureau\projet_final\forme\cercle.cpp
+	"Cercle.h"
+
+1575231406 c:\users\danyr\onedrive\bureau\projet_final\forme\cercle.h
+	"../outil_math/Coords.h"
+	"Forme.h"
+	<iostream>
+
+1575231406 c:\users\danyr\onedrive\bureau\projet_final\outil_math\coords.h
+
+1575231406 c:\users\danyr\onedrive\bureau\projet_final\forme\forme.h
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<iostream>
+
+1575231406 c:\users\danyr\onedrive\bureau\projet_final\svg\svgfile.h
+	"../outil_math/Coords.h"
+	<string>
+	<fstream>
+	<set>
+
+1575231406 c:\users\danyr\onedrive\bureau\projet_final\outil_math\pointdencrage.h
+	<string>
+	"Vecteur.h"
+	"Coords.h"
+	"../svg/svgfile.h"
+
+1575231406 c:\users\danyr\onedrive\bureau\projet_final\outil_math\vecteur.h
+	<iostream>
+	"Coords.h"
+
+1575239875 source:c:\users\danyr\onedrive\bureau\projet_final\forme\forme.cpp
+	"Forme.h"
+
+1575231406 source:c:\users\danyr\onedrive\bureau\projet_final\forme\rectangle.cpp
+	"Rectangle.h"
+
+1575231406 c:\users\danyr\onedrive\bureau\projet_final\forme\rectangle.h
+	"Forme.h"
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<cmath>
+
+1575231406 source:c:\users\danyr\onedrive\bureau\projet_final\main.cpp
+	<iostream>
+	<vector>
+	"objet/Objet.h"
+	"svg/svgfile.h"
+	"phrase/Phrase.h"
+	"util/util.h"
+
+1575237296 c:\users\danyr\onedrive\bureau\projet_final\objet\objet.h
+	"../forme/Forme.h"
+	"../outil_math/Coords.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	<iostream>
+	<string>
+	<vector>
+
+1575231406 c:\users\danyr\onedrive\bureau\projet_final\phrase\phrase.h
+	"../objet/Objet.h"
+
+1575231406 c:\users\danyr\onedrive\bureau\projet_final\util\util.h
+	<string>
+
+1575239364 source:c:\users\danyr\onedrive\bureau\projet_final\objet\bloc.cpp
+	"Bloc.h"
+
+1575231406 c:\users\danyr\onedrive\bureau\projet_final\objet\bloc.h
+	"../forme/Forme.h"
+	"../forme/Rectangle.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	"Objet.h"
+	<cmath>
+
+1575231406 source:c:\users\danyr\onedrive\bureau\projet_final\objet\mur.cpp
+	"Mur.h"
+
+1575231406 c:\users\danyr\onedrive\bureau\projet_final\objet\mur.h
+	"Objet.h"
+	"Bloc.h"
+	"../forme/Rectangle.h"
+
+1575238624 source:c:\users\danyr\onedrive\bureau\projet_final\objet\objet.cpp
+	"Objet.h"
+	"Mur.h"
+	"../svg/svgfile.h"
+
+1575231406 source:c:\users\danyr\onedrive\bureau\projet_final\outil_math\coords.cpp
+	"Coords.h"
+
+1575231406 source:c:\users\danyr\onedrive\bureau\projet_final\outil_math\pointdancrage.cpp
+	"PointDencrage.h"
+
+1575231406 source:c:\users\danyr\onedrive\bureau\projet_final\outil_math\vecteur.cpp
+	"Vecteur.h"
+
+1575239808 source:c:\users\danyr\onedrive\bureau\projet_final\phrase\phrase.cpp
+	"Phrase.h"
+	"../sauvegarde/sauvegarde.h"
+	<fstream>
+
+1575231406 c:\users\danyr\onedrive\bureau\projet_final\sauvegarde\sauvegarde.h
+	<fstream>
+	"../objet/Objet.h"
+
+1575237835 source:c:\users\danyr\onedrive\bureau\projet_final\sauvegarde\sauvegarde.cpp
+	"sauvegarde.h"
+	"../objet/Objet.h"
+	"../outil_math/Coords.h"
+
+1575231406 source:c:\users\danyr\onedrive\bureau\projet_final\svg\svgfile.cpp
+	<iostream>
+	<sstream>
+	<cmath>
+
+1575238104 source:c:\users\danyr\onedrive\bureau\projet_final\util\util.cpp
+	"util.h"
+	<random>
+	<ctime>
+	<iostream>
+	<streambuf>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<iostream>
+	<thread>
+	"util.h"
+	<windows.h>
+
+1575235006 source:c:\users\danyr\onedrive\documents\projet_final\forme\cercle.cpp
+	"Cercle.h"
+
+1575235006 c:\users\danyr\onedrive\documents\projet_final\forme\cercle.h
+	"../outil_math/Coords.h"
+	"Forme.h"
+	<iostream>
+
+1575235006 c:\users\danyr\onedrive\documents\projet_final\outil_math\coords.h
+
+1575235006 c:\users\danyr\onedrive\documents\projet_final\forme\forme.h
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<iostream>
+
+1575235006 c:\users\danyr\onedrive\documents\projet_final\svg\svgfile.h
+	"../outil_math/Coords.h"
+	<string>
+	<fstream>
+	<set>
+
+1575235006 c:\users\danyr\onedrive\documents\projet_final\outil_math\pointdencrage.h
+	<string>
+	"Vecteur.h"
+	"Coords.h"
+	"../svg/svgfile.h"
+
+1575235006 c:\users\danyr\onedrive\documents\projet_final\outil_math\vecteur.h
+	<iostream>
+	"Coords.h"
+
+1575243475 source:c:\users\danyr\onedrive\documents\projet_final\forme\forme.cpp
+	"Forme.h"
+
+1575235006 source:c:\users\danyr\onedrive\documents\projet_final\forme\rectangle.cpp
+	"Rectangle.h"
+
+1575235006 c:\users\danyr\onedrive\documents\projet_final\forme\rectangle.h
+	"Forme.h"
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<cmath>
+
+1575235006 source:c:\users\danyr\onedrive\documents\projet_final\main.cpp
+	<iostream>
+	<vector>
+	"objet/Objet.h"
+	"svg/svgfile.h"
+	"phrase/Phrase.h"
+	"util/util.h"
+
+1575240896 c:\users\danyr\onedrive\documents\projet_final\objet\objet.h
+	"../forme/Forme.h"
+	"../outil_math/Coords.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	<iostream>
+	<string>
+	<vector>
+
+1575235006 c:\users\danyr\onedrive\documents\projet_final\phrase\phrase.h
+	"../objet/Objet.h"
+
+1575235006 c:\users\danyr\onedrive\documents\projet_final\util\util.h
+	<string>
+
+1575235006 source:c:\users\danyr\onedrive\documents\projet_final\objet\mur.cpp
+	"Mur.h"
+
+1575235006 c:\users\danyr\onedrive\documents\projet_final\objet\mur.h
+	"Objet.h"
+	"Bloc.h"
+	"../forme/Rectangle.h"
+
+1575235006 c:\users\danyr\onedrive\documents\projet_final\objet\bloc.h
+	"../forme/Forme.h"
+	"../forme/Rectangle.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	"Objet.h"
+	<cmath>
+
+1575242224 source:c:\users\danyr\onedrive\documents\projet_final\objet\objet.cpp
+	"Objet.h"
+	"Mur.h"
+	"../svg/svgfile.h"
+
+1575235006 source:c:\users\danyr\onedrive\documents\projet_final\outil_math\coords.cpp
+	"Coords.h"
+
+1575235006 source:c:\users\danyr\onedrive\documents\projet_final\outil_math\pointdancrage.cpp
+	"PointDencrage.h"
+
+1575235006 source:c:\users\danyr\onedrive\documents\projet_final\outil_math\vecteur.cpp
+	"Vecteur.h"
+
+1575243408 source:c:\users\danyr\onedrive\documents\projet_final\phrase\phrase.cpp
+	"Phrase.h"
+	"../sauvegarde/sauvegarde.h"
+	<fstream>
+
+1575235006 c:\users\danyr\onedrive\documents\projet_final\sauvegarde\sauvegarde.h
+	<fstream>
+	"../objet/Objet.h"
+
+1575241435 source:c:\users\danyr\onedrive\documents\projet_final\sauvegarde\sauvegarde.cpp
+	"sauvegarde.h"
+	"../objet/Objet.h"
+	"../outil_math/Coords.h"
+
+1575235006 source:c:\users\danyr\onedrive\documents\projet_final\svg\svgfile.cpp
+	<iostream>
+	<sstream>
+	<cmath>
+
+1575241704 source:c:\users\danyr\onedrive\documents\projet_final\util\util.cpp
+	"util.h"
+	<random>
+	<ctime>
+	<iostream>
+	<streambuf>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<iostream>
+	<thread>
+	"util.h"
+	<windows.h>
+
+1575231406 source:d:\documents\projet_final\forme\cercle.cpp
+	"Cercle.h"
+
+1575231406 d:\documents\projet_final\forme\cercle.h
+	"../outil_math/Coords.h"
+	"Forme.h"
+	<iostream>
+
+1575231406 d:\documents\projet_final\outil_math\coords.h
+
+1575231406 d:\documents\projet_final\forme\forme.h
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<iostream>
+
+1575231406 d:\documents\projet_final\svg\svgfile.h
+	"../outil_math/Coords.h"
+	<string>
+	<fstream>
+	<set>
+
+1575231406 d:\documents\projet_final\outil_math\pointdencrage.h
+	<string>
+	"Vecteur.h"
+	"Coords.h"
+	"../svg/svgfile.h"
+
+1575231406 d:\documents\projet_final\outil_math\vecteur.h
+	<iostream>
+	"Coords.h"
+
+1575239875 source:d:\documents\projet_final\forme\forme.cpp
+	"Forme.h"
+
+1575231406 source:d:\documents\projet_final\forme\rectangle.cpp
+	"Rectangle.h"
+
+1575231406 d:\documents\projet_final\forme\rectangle.h
+	"Forme.h"
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<cmath>
+
+1575231406 source:d:\documents\projet_final\main.cpp
+	<iostream>
+	<vector>
+	"objet/Objet.h"
+	"svg/svgfile.h"
+	"phrase/Phrase.h"
+	"util/util.h"
+
+1575237296 d:\documents\projet_final\objet\objet.h
+	"../forme/Forme.h"
+	"../outil_math/Coords.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	<iostream>
+	<string>
+	<vector>
+
+1575231406 d:\documents\projet_final\phrase\phrase.h
+	"../objet/Objet.h"
+
+1575231406 d:\documents\projet_final\util\util.h
+	<string>
+
+1575241036 source:d:\documents\projet_final\objet\bloc.cpp
+	"Bloc.h"
+
+1575231406 d:\documents\projet_final\objet\bloc.h
+	"../forme/Forme.h"
+	"../forme/Rectangle.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	"Objet.h"
+	<cmath>
+
+1575231406 source:d:\documents\projet_final\objet\mur.cpp
+	"Mur.h"
+
+1575231406 d:\documents\projet_final\objet\mur.h
+	"Objet.h"
+	"Bloc.h"
+	"../forme/Rectangle.h"
+
+1575238624 source:d:\documents\projet_final\objet\objet.cpp
+	"Objet.h"
+	"Mur.h"
+	"../svg/svgfile.h"
+
+1575231406 source:d:\documents\projet_final\outil_math\coords.cpp
+	"Coords.h"
+
+1575231406 source:d:\documents\projet_final\outil_math\pointdancrage.cpp
+	"PointDencrage.h"
+
+1575231406 source:d:\documents\projet_final\outil_math\vecteur.cpp
+	"Vecteur.h"
+
+1575239808 source:d:\documents\projet_final\phrase\phrase.cpp
+	"Phrase.h"
+	"../sauvegarde/sauvegarde.h"
+	<fstream>
+
+1575231406 d:\documents\projet_final\sauvegarde\sauvegarde.h
+	<fstream>
+	"../objet/Objet.h"
+
+1575237835 source:d:\documents\projet_final\sauvegarde\sauvegarde.cpp
+	"sauvegarde.h"
+	"../objet/Objet.h"
+	"../outil_math/Coords.h"
+
+1575231406 source:d:\documents\projet_final\svg\svgfile.cpp
+	<iostream>
+	<sstream>
+	<cmath>
+
+1575238104 source:d:\documents\projet_final\util\util.cpp
+	"util.h"
+	<random>
+	<ctime>
+	<iostream>
+	<streambuf>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<iostream>
+	<thread>
+	"util.h"
+	<windows.h>
+
+1575231406 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\forme\cercle.cpp
+	"Cercle.h"
+
+1575231406 c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\forme\cercle.h
+	"../outil_math/Coords.h"
+	"Forme.h"
+	<iostream>
+
+1575231406 c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\outil_math\coords.h
+
+1575231406 c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\forme\forme.h
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<iostream>
+
+1575231406 c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\svg\svgfile.h
+	"../outil_math/Coords.h"
+	<string>
+	<fstream>
+	<set>
+
+1575231406 c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\outil_math\pointdencrage.h
+	<string>
+	"Vecteur.h"
+	"Coords.h"
+	"../svg/svgfile.h"
+
+1575231406 c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\outil_math\vecteur.h
+	<iostream>
+	"Coords.h"
+
+1575239875 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\forme\forme.cpp
+	"Forme.h"
+
+1575231406 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\forme\rectangle.cpp
+	"Rectangle.h"
+
+1575231406 c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\forme\rectangle.h
+	"Forme.h"
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<cmath>
+
+1575231406 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\main.cpp
+	<iostream>
+	<vector>
+	"objet/Objet.h"
+	"svg/svgfile.h"
+	"phrase/Phrase.h"
+	"util/util.h"
+
+1575237296 c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\objet\objet.h
+	"../forme/Forme.h"
+	"../outil_math/Coords.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	<iostream>
+	<string>
+	<vector>
+
+1575231406 c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\phrase\phrase.h
+	"../objet/Objet.h"
+
+1575231406 c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\util\util.h
+	<string>
+
+1575241036 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\objet\bloc.cpp
+	"Bloc.h"
+
+1575231406 c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\objet\bloc.h
+	"../forme/Forme.h"
+	"../forme/Rectangle.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	"Objet.h"
+	<cmath>
+
+1575231406 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\objet\mur.cpp
+	"Mur.h"
+
+1575231406 c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\objet\mur.h
+	"Objet.h"
+	"Bloc.h"
+	"../forme/Rectangle.h"
+
+1575238624 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\objet\objet.cpp
+	"Objet.h"
+	"Mur.h"
+	"../svg/svgfile.h"
+
+1575231406 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\outil_math\coords.cpp
+	"Coords.h"
+
+1575231406 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\outil_math\pointdancrage.cpp
+	"PointDencrage.h"
+
+1575231406 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\outil_math\vecteur.cpp
+	"Vecteur.h"
+
+1575239808 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\phrase\phrase.cpp
+	"Phrase.h"
+	"../sauvegarde/sauvegarde.h"
+	<fstream>
+
+1575231406 c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\sauvegarde\sauvegarde.h
+	<fstream>
+	"../objet/Objet.h"
+
+1575237835 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\sauvegarde\sauvegarde.cpp
+	"sauvegarde.h"
+	"../objet/Objet.h"
+	"../outil_math/Coords.h"
+
+1575231406 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\svg\svgfile.cpp
+	<iostream>
+	<sstream>
+	<cmath>
+
+1575238104 source:c:\users\benja\onedrive\documents\ing2\informatique\projet_final\projet_final\util\util.cpp
+	"util.h"
+	<random>
+	<ctime>
+	<iostream>
+	<streambuf>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<iostream>
+	<thread>
+	"util.h"
+	<windows.h>
+

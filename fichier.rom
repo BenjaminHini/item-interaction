@@ -1,0 +1,52 @@
+3
+0 M 200 80 room 300 120 rgb(240,255,255)
+1 M 170 80 leftWall 30 120 rgb(169,169,169)
+1 B tentacle1 30 30 rgb(32,178,170) 0 ml 30 Droite
+1 B tentacle2 25 25 rgb(32,178,170) 0 ml 50 Droite
+1 B tentacle3 20 20 rgb(32,178,170) 0 ml 50 Droite
+1 B tentacle4 15 15 rgb(32,178,170) 0 ml 50 Droite
+1 B tentacle5 10 10 rgb(32,178,170) 0 ml 50 Droite
+1 B tentacle6 5 5 rgb(32,178,170) 0 ml 50 Droite
+0 B tentacle7 3 3 rgb(32,178,170) 0 ml 50 Droite
+7 M 170 200 ground 360 30 rgb(169,169,169)
+1 B foot1 3 10 rgb(128,0,128) 0 bc 20 Haut
+1 B leg1 6 10 black 0 br 0 Haut
+0 B beetle 100 15 rgb(153,50,204) 0 bl 0 Haut
+1 B foot2 3 10 rgb(128,0,128) 0 bc 25 Haut
+0 B leg2 6 10 black 0 br 0 Haut
+1 B foot3 3 10 rgb(128,0,128) 0 bc 30 Haut
+0 B leg3 6 10 black 0 br 0 Haut
+1 B foot4 3 10 rgb(128,0,128) 0 bc 35 Haut
+0 B leg4 6 10 black 0 br 0 Haut
+1 B foot5 3 10 rgb(128,0,128) 0 bc 40 Haut
+0 B leg5 6 10 black 0 br 0 Haut
+1 B foot6 3 10 rgb(128,0,128) 0 bc 45 Haut
+0 B leg6 6 10 black 0 br 0 Haut
+3 B polybot 15 50 rgb(0,128,0) 0 bc 70 Haut
+5 B arm1 30 10 rgb(0,128,0) 0 mr 10 Gauche
+0 B finger 5 2 rgb(0,128,0) 0 br 0 Gauche
+0 B finger 5 2 rgb(0,128,0) 0 mr 50 Gauche
+0 B finger 5 2 rgb(0,128,0) 0 tr 100 Gauche
+3 B forearm2 10 20 rgb(0,128,0) 0 bc 50 Haut
+0 B finger 2 5 rgb(0,128,0) 0 br 0 Haut
+0 B finger 2 5 rgb(0,128,0) 0 bc 50 Haut
+0 B finger 2 5 rgb(0,128,0) 0 bl 100 Haut
+3 B forearm1 10 20 rgb(0,128,0) 0 tc 50 Bas
+0 B finger 2 5 rgb(0,128,0) 0 tr 0 Bas
+0 B finger 2 5 rgb(0,128,0) 0 tc 50 Bas
+0 B finger 2 5 rgb(0,128,0) 0 tl 100 Bas
+2 B head 12 10 rgb(128,128,0) 0 bc 50 Haut
+0 B eye 3 3 black 0 ml 10 Gauche
+0 B eye 3 3 black 0 mr 10 Droite
+5 B arm1 30 10 rgb(0,128,0) 0 ml 10 Droite
+0 B finger 5 2 rgb(0,128,0) 0 bl 0 Droite
+0 B finger 5 2 rgb(0,128,0) 0 ml 50 Droite
+0 B finger 5 2 rgb(0,128,0) 0 tl 100 Droite
+3 B forearm2 10 20 rgb(0,128,0) 0 bc 50 Haut
+0 B finger 2 5 rgb(0,128,0) 0 br 0 Haut
+0 B finger 2 5 rgb(0,128,0) 0 bc 50 Haut
+0 B finger 2 5 rgb(0,128,0) 0 bl 100 Haut
+3 B forearm1 10 20 rgb(0,128,0) 0 tc 50 Bas
+0 B finger 2 5 rgb(0,128,0) 0 tr 0 Bas
+0 B finger 2 5 rgb(0,128,0) 0 tc 50 Bas
+0 B finger 2 5 rgb(0,128,0) 0 tl 100 Bas

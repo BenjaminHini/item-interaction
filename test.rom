@@ -1,0 +1,15 @@
+4
+0 M 200 80 room 300 120 rgb(240,255,255)
+1 M 170 80 leftWall 30 120 rgb(169,169,169)
+1 B bot1 50 10 rgb(32,178,170) 0 ml 50 Droite
+2 B arm 50 10 rgb(64,224,208) 0 tl 50 Bas
+0 B finger1 5 10 rgb(255,160,122) 0 tr 33 Bas
+0 B finger2 5 10 rgb(255,160,122) 0 tl 66 Bas
+1 M 170 200 ground 360 30 rgb(169,169,169)
+1 B bot2 40 40 rgb(32,178,170) 0 bc 50 Haut
+1 B table 10 40 rgb(64,224,208) 0 mc 50 Haut
+1 B tray 50 5 rgb(64,224,208) 0 bc 50 Haut
+0 B box 21 10 rgb(205,133,63) 0 bl 50 Haut
+1 M 500 80 rightWall 30 120 rgb(169,169,169)
+1 B bot3 100 20 rgb(32,178,170) 0 mr 7 Gauche
+0 B finger 10 20 rgb(255,160,122) 0 tc 50 Bas

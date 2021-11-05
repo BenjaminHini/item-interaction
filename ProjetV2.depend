@@ -1,0 +1,229 @@
+# depslib dependency file v1.0
+1574966574 source:c:\users\danyr\onedrive\bureau\code\projetv2\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	"outil_math/PointDencrage.h"
+	"objet/Bloc.h"
+	"objet/Objet.h"
+	"svg/svgfile.h"
+
+1574958688 source:c:\users\danyr\onedrive\bureau\code\projetv2\objet\objet.cpp
+	"Objet.h"
+	"Mur.h"
+
+1574066806 source:c:\users\danyr\onedrive\bureau\code\projetv2\outil_math\coords.cpp
+	"Coords.h"
+
+1574434517 c:\users\danyr\onedrive\bureau\code\projetv2\outil_math\coords.h
+
+1574776031 source:c:\users\danyr\onedrive\bureau\code\projetv2\svg\svgfile.cpp
+	<iostream>
+	<sstream>
+
+1574961105 source:c:\users\danyr\onedrive\bureau\code\projetv2\outil_math\pointdancrage.cpp
+	"PointDencrage.h"
+
+1574949511 c:\users\danyr\onedrive\bureau\code\projetv2\outil_math\pointdencrage.h
+	<string>
+	"Vecteur.h"
+	"Coords.h"
+	"../svg/svgfile.h"
+
+1574966924 source:c:\users\danyr\onedrive\bureau\code\projetv2\objet\bloc.cpp
+	"Bloc.h"
+
+1574961778 source:c:\users\danyr\onedrive\bureau\code\projetv2\objet\mur.cpp
+	"Mur.h"
+
+1574958671 c:\users\danyr\onedrive\bureau\code\projetv2\objet\objet.h
+	"../outil_math/Coords.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	<iostream>
+	<string>
+	<vector>
+
+1574434542 c:\users\danyr\onedrive\bureau\code\projetv2\svg\svgfile.h
+	"../outil_math/Coords.h"
+	<string>
+	<fstream>
+	<set>
+
+1574948698 c:\users\danyr\onedrive\bureau\code\projetv2\objet\mur.h
+	"Objet.h"
+	"Bloc.h"
+	"../forme/Rectangle.h"
+
+1574964129 source:c:\users\danyr\onedrive\bureau\code\projetv2\forme\forme.cpp
+	"Forme.h"
+
+1574942341 c:\users\danyr\onedrive\bureau\code\projetv2\forme\forme.h
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<iostream>
+
+1574966924 source:c:\users\danyr\onedrive\bureau\code\projetv2\forme\rectangle.cpp
+	"Rectangle.h"
+
+1574966947 c:\users\danyr\onedrive\bureau\code\projetv2\forme\rectangle.h
+	"Forme.h"
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<cmath>
+
+1574964986 c:\users\danyr\onedrive\bureau\code\projetv2\objet\bloc.h
+	"../forme/Forme.h"
+	"../forme/Rectangle.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	"Objet.h"
+	<cmath>
+
+1574949461 source:c:\users\danyr\onedrive\bureau\code\projetv2\outil_math\vecteur.cpp
+	"Vecteur.h"
+
+1574949461 c:\users\danyr\onedrive\bureau\code\projetv2\outil_math\vecteur.h
+	<iostream>
+	"Coords.h"
+
+1574867711 source:c:\users\danyr\onedrive\bureau\code\projetv2\phrase\phrase.cpp
+	"Phrase.h"
+
+1574786667 c:\users\danyr\onedrive\bureau\code\projetv2\phrase\phrase.h
+	"../objet/Objet.h"
+
+1574968942 source:c:\users\benja\onedrive\bureau\prj4\forme\forme.cpp
+	"Forme.h"
+
+1574968942 c:\users\benja\onedrive\bureau\prj4\forme\forme.h
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<iostream>
+
+1574983280 c:\users\benja\onedrive\bureau\prj4\svg\svgfile.h
+	"../outil_math/Coords.h"
+	<string>
+	<fstream>
+	<set>
+
+1574968942 c:\users\benja\onedrive\bureau\prj4\outil_math\coords.h
+
+1574968942 c:\users\benja\onedrive\bureau\prj4\outil_math\pointdencrage.h
+	<string>
+	"Vecteur.h"
+	"Coords.h"
+	"../svg/svgfile.h"
+
+1575147517 c:\users\benja\onedrive\bureau\prj4\outil_math\vecteur.h
+	<iostream>
+	"Coords.h"
+
+1574968942 source:c:\users\benja\onedrive\bureau\prj4\forme\rectangle.cpp
+	"Rectangle.h"
+
+1575147472 c:\users\benja\onedrive\bureau\prj4\forme\rectangle.h
+	"Forme.h"
+	"../svg/svgfile.h"
+	"../outil_math/PointDencrage.h"
+	<cmath>
+
+1575141394 source:c:\users\benja\onedrive\bureau\prj4\main.cpp
+	<iostream>
+	<vector>
+	"objet/Objet.h"
+	"svg/svgfile.h"
+	"phrase/Phrase.h"
+	"util/util.h"
+
+1575147472 c:\users\benja\onedrive\bureau\prj4\objet\bloc.h
+	"../forme/Forme.h"
+	"../forme/Rectangle.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	"Objet.h"
+	<cmath>
+
+1575125036 c:\users\benja\onedrive\bureau\prj4\objet\objet.h
+	"../forme/Forme.h"
+	"../outil_math/Coords.h"
+	"../outil_math/PointDencrage.h"
+	"../svg/svgfile.h"
+	<iostream>
+	<string>
+	<vector>
+
+1575120824 source:c:\users\benja\onedrive\bureau\prj4\objet\bloc.cpp
+	"Bloc.h"
+
+1575137759 source:c:\users\benja\onedrive\bureau\prj4\objet\mur.cpp
+	"Mur.h"
+
+1575147472 c:\users\benja\onedrive\bureau\prj4\objet\mur.h
+	"Objet.h"
+	"Bloc.h"
+	"../forme/Rectangle.h"
+
+1575125036 source:c:\users\benja\onedrive\bureau\prj4\objet\objet.cpp
+	"Objet.h"
+	"Mur.h"
+	"../svg/svgfile.h"
+
+1575137759 source:c:\users\benja\onedrive\bureau\prj4\outil_math\coords.cpp
+	"Coords.h"
+
+1575120824 source:c:\users\benja\onedrive\bureau\prj4\outil_math\pointdancrage.cpp
+	"PointDencrage.h"
+
+1574968942 source:c:\users\benja\onedrive\bureau\prj4\outil_math\vecteur.cpp
+	"Vecteur.h"
+
+1575147321 source:c:\users\benja\onedrive\bureau\prj4\phrase\phrase.cpp
+	"Phrase.h"
+	"../sauvegarde/sauvegarde.h"
+	<fstream>
+
+1575143030 c:\users\benja\onedrive\bureau\prj4\phrase\phrase.h
+	"../objet/Objet.h"
+
+1574968942 source:c:\users\benja\onedrive\bureau\prj4\svg\svgfile.cpp
+	<iostream>
+	<sstream>
+
+1575055320 source:c:\users\benja\onedrive\bureau\prj4\sauvegarde.cpp
+	"sauvegarde.h"
+	"objet/Objet.h"
+	"outil_math/Coords.h"
+
+1575055309 c:\users\benja\onedrive\bureau\prj4\sauvegarde.h
+	<fstream>
+	"objet/Objet.h"
+
+1575058667 source:c:\users\benja\onedrive\bureau\prj4\sauvegarde\sauvegarde.cpp
+	"sauvegarde.h"
+	"../objet/Objet.h"
+	"../outil_math/Coords.h"
+
+1575058207 c:\users\benja\onedrive\bureau\prj4\sauvegarde\sauvegarde.h
+	<fstream>
+	"../objet/Objet.h"
+
+1571066508 source:c:\users\benja\onedrive\bureau\prj4\util\util.cpp
+	"util.h"
+	<random>
+	<ctime>
+	<iostream>
+	<streambuf>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<iostream>
+	<thread>
+	"util.h"
+	<windows.h>
+
+1571066508 c:\users\benja\onedrive\bureau\prj4\util\util.h
+	<string>
+

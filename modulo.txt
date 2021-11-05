@@ -1,0 +1,4 @@
+load fichier.rom
+@foot
+foot2%2 rotate 180
+endscript
